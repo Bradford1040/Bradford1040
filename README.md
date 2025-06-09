@@ -25,20 +25,20 @@ solutions. My journey in development is driven by a curiosity to understand how 
 
 <div style="clear: both; margin-top: 30px;"></div>
 
-<img align="left" alt="Bash" width="30px" style="padding-right:8px; padding-top: 10px;" src="icons/bash-128.png"/>
-<img align="left" alt="Android Studio" width="30px" style="padding-right:8px; padding-top: 10px;" src="icons/android-studio-128.png"/>
-<img align="left" alt="VS_Code" width="30px" style="padding-right:8px; padding-top: 10px;" src="icons/vs-code-128.png"/>
-<img align="left" alt="Visual_Studio" width="30px" style="padding-right:8px; padding-top: 10px;" src="icons/visual-studio-128.png"/>
-<img align="left" alt="Kate" width="30px" style="padding-right:8px; padding-top: 10px;" src="icons/kate-128.png"/>
-<img align="left" alt="Emacs" width="30px" style="padding-right:8px; padding-top: 10px;" src="icons/emacs-128.png"/>
-<img align="left" alt="Arduino" width="30px" style="padding-right:8px; padding-top: 10px;" src="icons/arduino-ide-128.png"/>
-<img align="left" alt="Terminal" width="30px" style="padding-right:8px; padding-top: 10px;" src="icons/terminal-128.png"/>
-<img align="left" alt="Blender" width="30px" style="padding-right:8px; padding-top: 10px;" src="icons/blender-128.png"/>
-<img align="left" alt="NeoVim" width="30px" style="padding-right:8px; padding-top: 10px;" src="icons/neovim-128.png"/>
-<img align="left" alt="Oxygen" width="30px" style="padding-right:8px; padding-top: 10px;" src="icons/oxygen-128.png"/>
-<img align="left" alt="Word" width="30px" style="padding-right:8px; padding-top: 10px;" src="icons/word-128.png"/>
-<img align="left" alt="PowerPoint" width="30px" style="padding-right:8px; padding-top: 10px;" src="icons/powerpoint-128.png"/>
-<img align="left" alt="Excel" width="30px" style="padding-right:8px; padding-top: 10px;" src="icons/excel-128.png"/>
-<img align="left" alt="Chrome" width="30px" style="padding-right:8px; padding-top: 10px;" src="icons/chrome-128.png"/>
-<img align="left" alt="Discord" width="30px" style="padding-right:8px; padding-top: 10px;" src="icons/discord-128.png"/>
+<img align="left" alt="Bash" width="30px" style="padding-right:8px;" src="icons/bash-128.png"/>
+<img align="left" alt="Android Studio" width="30px" style="padding-right:8px;" src="icons/android-studio-128.png"/>
+<img align="left" alt="VS_Code" width="30px" style="padding-right:8px;" src="icons/vs-code-128.png"/>
+<img align="left" alt="Visual_Studio" width="30px" style="padding-right:8px;" src="icons/visual-studio-128.png"/>
+<img align="left" alt="Kate" width="30px" style="padding-right:8px;" src="icons/kate-128.png"/>
+<img align="left" alt="Emacs" width="30px" style="padding-right:8px;" src="icons/emacs-128.png"/>
+<img align="left" alt="Arduino" width="30px" style="padding-right:8px;" src="icons/arduino-ide-128.png"/>
+<img align="left" alt="Terminal" width="30px" style="padding-right:8px;" src="icons/terminal-128.png"/>
+<img align="left" alt="Blender" width="30px" style="padding-right:8px;" src="icons/blender-128.png"/>
+<img align="left" alt="NeoVim" width="30px" style="padding-right:8px;" src="icons/neovim-128.png"/>
+<img align="left" alt="Oxygen" width="30px" style="padding-right:8px;" src="icons/oxygen-128.png"/>
+<img align="left" alt="Word" width="30px" style="padding-right:8px;" src="icons/word-128.png"/>
+<img align="left" alt="PowerPoint" width="30px" style="padding-right:8px;" src="icons/powerpoint-128.png"/>
+<img align="left" alt="Excel" width="30px" style="padding-right:8px;" src="icons/excel-128.png"/>
+<img align="left" alt="Chrome" width="30px" style="padding-right:8px;" src="icons/chrome-128.png"/>
+<img align="left" alt="Discord" width="30px" style="padding-right:8px;" src="icons/discord-128.png"/>
 
