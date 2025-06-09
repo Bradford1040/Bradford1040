@@ -7,8 +7,15 @@ solutions. My journey in development is driven by a curiosity to understand how 
 
 <img align="left" alt="WebStorm" width="30px" style="padding-right:10px;" src="icons/webstorm-128.png"/>
 <img align="left" alt="PyCharm" width="30px" style="padding-right:10px;" src="icons/pycharm-128.png"/>
+<img align="left" alt="IntelliJ" width="30px" style="padding-right:10px;" src="icons/intellij-idea-128.png"/>
+<img align="left" alt="Clion" width="30px" style="padding-right:10px;" src="icons/clion-128.png"/>
 <img align="left" alt="VS_Code" width="30px" style="padding-right:10px;" src="icons/vs-code-128.png"/>
+<img align="left" alt="Visual_Studio" width="30px" style="padding-right:10px;" src="icons/visual-studio-128.png"/>
 <img align="left" alt="Android Studio" width="30px" style="padding-right:10px;" src="icons/android-studio-128.png"/>
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="icons/bash-128.png"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="icons/python-128-1.png"/>
-<img align="left" alt="Visual_Studio" width="30px" style="padding-right:10px;" src="icons/visual-studio-128.png"/>
+<img align="left" alt="Kate" width="30px" style="padding-right:10px;" src="icons/kate-128.png"/>
+<img align="left" alt="Word" width="30px" style="padding-right:10px;" src="icons/word-128.png"/>
+<img align="left" alt="Excel" width="30px" style="padding-right:10px;" src="icons/excel-128.png"/>
+<img align="left" alt="PowerPoint" width="30px" style="padding-right:10px;" src="icons/powerpoint-128.png"/>
+<img align="left" alt="Emacs" width="30px" style="padding-right:10px;" src="icons/emacs-128.png"/>
