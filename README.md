@@ -19,7 +19,6 @@ solutions. My journey in development is driven by a curiosity to understand how 
 <img align="left" alt="Java" width="30px" style="padding-right:8px;" src="icons/java.svg"/>
 <img align="left" alt="JavaScript" width="30px" style="padding-right:8px;" src="icons/javascript.svg" />
 <img align="left" alt="Kate" width="30px" style="padding-right:8px;" src="icons/kate-128.png"/>
-<img align="left" alt="Word" width="30px" style="padding-right:8px;" src="icons/word-128.png"/>
+<img align="left" alt="Jupyter" width="30px" style="padding-right:8px;" src="icons/jupyter-128.png"/>
 <img align="left" alt="Excel" width="30px" style="padding-right:8px;" src="icons/excel-128.png"/>
-<img align="left" alt="PowerPoint" width="30px" style="padding-right:8px;" src="icons/powerpoint-128.png"/>
 <img align="left" alt="Emacs" width="30px" style="padding-right:8px;" src="icons/emacs-128.png"/>
