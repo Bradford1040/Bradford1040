@@ -23,8 +23,8 @@ solutions. My journey in development is driven by a curiosity to understand how 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:8px;" src="icons/javascript.svg" />
 <img align="left" alt="Jupyter" width="30px" style="padding-right:8px;" src="icons/jupyter-128.png"/>
 
-
-<div style="clear: both; margin-top: 50px;"></div>
+#
+<div style="clear: both; margin-top: 10px;"></div>
 
 
 <img align="left" alt="Bash" width="30px" style="padding-right:8px;" src="icons/bash-128.png"/>
