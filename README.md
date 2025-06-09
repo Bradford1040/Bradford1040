@@ -3,7 +3,7 @@
 * I thrive on solving complex problems and am always eager to learn new technologies to create efficient and innovative
 solutions. My journey in development is driven by a curiosity to understand how things work and a desire to make them better.
 - - -
-### 🧰 Languages and Tools
+### 🧰 Languages and Tools 🧰
 
 <img align="left" alt="WebStorm" width="30px" style="padding-right:10px;" src="icons/webstorm-128.png"/>
 <img align="left" alt="PyCharm" width="30px" style="padding-right:10px;" src="icons/pycharm-128.png"/>
@@ -12,8 +12,11 @@ solutions. My journey in development is driven by a curiosity to understand how 
 <img align="left" alt="VS_Code" width="30px" style="padding-right:10px;" src="icons/vs-code-128.png"/>
 <img align="left" alt="Visual_Studio" width="30px" style="padding-right:10px;" src="icons/visual-studio-128.png"/>
 <img align="left" alt="Android Studio" width="30px" style="padding-right:10px;" src="icons/android-studio-128.png"/>
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="icons/bash-128.png"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="icons/python-128-1.png"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Kate" width="30px" style="padding-right:10px;" src="icons/kate-128.png"/>
 <img align="left" alt="Word" width="30px" style="padding-right:10px;" src="icons/word-128.png"/>
 <img align="left" alt="Excel" width="30px" style="padding-right:10px;" src="icons/excel-128.png"/>
