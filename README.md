@@ -23,7 +23,7 @@ solutions. My journey in development is driven by a curiosity to understand how 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:8px; padding-bottom: 10px;" src="icons/javascript.svg" />
 <img align="left" alt="Jupyter" width="30px" style="padding-right:8px; padding-bottom: 10px;" src="icons/jupyter-128.png"/>
 
-<div style="clear: both; margin-top: 10px;"></div>
+<div style="clear: both; margin-top: 20px;"></div>
 
 <img align="left" alt="Bash" width="30px" style="padding-right:8px; padding-top: 10px;" src="icons/bash-128.png"/>
 <img align="left" alt="Android Studio" width="30px" style="padding-right:8px; padding-top: 10px;" src="icons/android-studio-128.png"/>
