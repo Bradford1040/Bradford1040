@@ -23,7 +23,9 @@ solutions. My journey in development is driven by a curiosity to understand how 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:8px;" src="icons/javascript.svg" />
 <img align="left" alt="Jupyter" width="30px" style="padding-right:8px;" src="icons/jupyter-128.png"/>
 
-<div style="clear: both; margin-top: 30px;"></div>
+
+<div style="clear: both; margin-top: 50px;"></div>
+
 
 <img align="left" alt="Bash" width="30px" style="padding-right:8px;" src="icons/bash-128.png"/>
 <img align="left" alt="Android Studio" width="30px" style="padding-right:8px;" src="icons/android-studio-128.png"/>
@@ -41,4 +43,7 @@ solutions. My journey in development is driven by a curiosity to understand how 
 <img align="left" alt="Excel" width="30px" style="padding-right:8px;" src="icons/excel-128.png"/>
 <img align="left" alt="Chrome" width="30px" style="padding-right:8px;" src="icons/chrome-128.png"/>
 <img align="left" alt="Discord" width="30px" style="padding-right:8px;" src="icons/discord-128.png"/>
+
+
+
 
