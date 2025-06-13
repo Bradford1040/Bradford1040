@@ -15,8 +15,9 @@ I specialize in custom development,including creating custom install application
 * My journey in development is driven by a curiosity to understand how things work and a desire to make them better.
 - - -
 <h3 align="center">🧰 Languages and Tools 🧰</h3>
-<br/>
+ <br/>
 
+<div align="center">
 <!--suppress HtmlDeprecatedAttribute, CheckImageSize -->
 <img align="left" alt="WebStorm" width="30px" style="padding-right:8px;" src="icons/webstorm-128.png"/>
 <img align="left" alt="PyCharm" width="30px" style="padding-right:8px;" src="icons/pycharm-128.png"/>
@@ -34,11 +35,13 @@ I specialize in custom development,including creating custom install application
 <img align="left" alt="Java" width="30px" style="padding-right:8px;" src="icons/java.svg"/>
 <img align="left" alt="JavaScript" width="30px" style="padding-right:8px;" src="icons/javascript.svg" />
 <img align="left" alt="Jupyter" width="30px" style="padding-right:8px;" src="icons/jupyter-128.png"/>
+    <br>
+</div>
 
 
-<div style="clear: both; margin-top: 10px;"></div><div style="clear: both; margin-top: 10px;"></div>
 <br/>
 
+<div align="center">
 <img align="left" alt="Bash" width="30px" style="padding-right:8px;" src="icons/bash-128.png"/>
 <img align="left" alt="Android Studio" width="30px" style="padding-right:8px;" src="icons/android-studio-128.png"/>
 <img align="left" alt="VS_Code" width="30px" style="padding-right:8px;" src="icons/vs-code-128.png"/>
@@ -55,6 +58,8 @@ I specialize in custom development,including creating custom install application
 <img align="left" alt="Excel" width="30px" style="padding-right:8px;" src="icons/excel-128.png"/>
 <img align="left" alt="Chrome" width="30px" style="padding-right:8px;" src="icons/chrome-128.png"/>
 <img align="left" alt="Discord" width="30px" style="padding-right:8px;" src="icons/discord-128.png"/>
+    <br>
+</div>
 
 <div style="clear: both; margin-top: 2px;"></div>
 
