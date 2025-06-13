@@ -1,9 +1,18 @@
-### I'm a developer with a passion for building and modifying applications, particularly within the Klipper (for 3D printing) and Android ecosystems. I specialize in custom development,including creating custom install applications.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=40&pause=1000&color=38F72B&center=true&vCenter=true&width=500&height=70&lines=Hello!++I+am%2C;%D0%92%CA%80%CE%B1%E2%88%82%C6%92%C3%B8%CA%80%E2%88%82%C2%B9%E2%81%B0%E2%81%B4%E2%81%B0" alt="Typing SVG" /></a>
 
-* I thrive on solving complex problems and am always eager to learn new technologies to create efficient and innovative
-solutions. My journey in development is driven by a curiosity to understand how things work and a desire to make them better.
+<h3 align="center">
+I'm a developer with a passion for building and modifying applications, 
+particularly within the Klipper (for 3D printing) and Android ecosystems. 
+I specialize in custom development,including creating custom install applications.
+</h3>
+
+<br/>
+
+* I thrive on solving complex problems and am always eager to learn new technologies
+* to create efficient and innovative solutions.
+* My journey in development is driven by a curiosity to understand how things work and a desire to make them better.
 - - -
-### 🧰 Languages and Tools 🧰
+<h3 align="center">🧰 Languages and Tools 🧰</h3>
 
 <!--suppress HtmlDeprecatedAttribute, CheckImageSize -->
 <img align="left" alt="WebStorm" width="30px" style="padding-right:8px;" src="icons/webstorm-128.png"/>
@@ -24,7 +33,7 @@ solutions. My journey in development is driven by a curiosity to understand how 
 <img align="left" alt="Jupyter" width="30px" style="padding-right:8px;" src="icons/jupyter-128.png"/>
 
 
-<div style="clear: both; margin-top: 10px;"></div>
+<div style="clear: both; margin-top: 10px;"></div><div style="clear: both; margin-top: 30px;"></div>
 
 
 <img align="left" alt="Bash" width="30px" style="padding-right:8px;" src="icons/bash-128.png"/>
@@ -44,6 +53,7 @@ solutions. My journey in development is driven by a curiosity to understand how 
 <img align="left" alt="Chrome" width="30px" style="padding-right:8px;" src="icons/chrome-128.png"/>
 <img align="left" alt="Discord" width="30px" style="padding-right:8px;" src="icons/discord-128.png"/>
 
+<div style="clear: both; margin-top: 2px;"></div>
 
 
 
