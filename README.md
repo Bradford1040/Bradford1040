@@ -1,3 +1,4 @@
+<!--suppress ALL -->
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=40&pause=1000&color=38F72B&center=true&vCenter=true&width=500&height=70&lines=Hello!++I+am%2C;%D0%92%CA%80%CE%B1%E2%88%82%C6%92%C3%B8%CA%80%E2%88%82%C2%B9%E2%81%B0%E2%81%B4%E2%81%B0" alt="Typing SVG" /></a>
 </h1>
@@ -5,7 +6,7 @@
 <h3 align="center">
 I'm a developer with a passion for building and modifying applications, 
 particularly within the Klipper (for 3D printing) and Android ecosystems. 
-I specialize in custom development,including creating custom install applications.
+I specialize in custom development, including creating custom install applications.
 </h3>
 
 <br/>
@@ -18,7 +19,6 @@ I specialize in custom development,including creating custom install application
  <br/>
 
 <div align="center">
-<!--suppress HtmlDeprecatedAttribute, CheckImageSize -->
 <img align="left" alt="WebStorm" width="30px" style="padding-right:8px;" src="icons/webstorm-128.png"/>
 <img align="left" alt="PyCharm" width="30px" style="padding-right:8px;" src="icons/pycharm-128.png"/>
 <img align="left" alt="IntelliJ" width="30px" style="padding-right:8px;" src="icons/intellij-idea-128.png"/>
@@ -42,7 +42,7 @@ I specialize in custom development,including creating custom install application
 <br/>
 
 <div align="center">
-<img align="left" alt="Bash" width="30px" style="padding-right:8px;" src="icons/bash-128.png"/>
+<img align="left" alt="Bash" width="30px" style="padding-right:8px;" src="icons/bash-447.png"/>
 <img align="left" alt="Android Studio" width="30px" style="padding-right:8px;" src="icons/android-studio-128.png"/>
 <img align="left" alt="VS_Code" width="30px" style="padding-right:8px;" src="icons/vs-code-128.png"/>
 <img align="left" alt="Visual_Studio" width="30px" style="padding-right:8px;" src="icons/visual-studio-128.png"/>
