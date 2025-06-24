@@ -31,7 +31,7 @@ I specialize in custom development, including creating custom install applicatio
 <img align="left" alt="Git" width="30px" style="padding-right:8px;" src="icons/git.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:8px;" src="icons/github-dark.svg"/>
 <img align="left" alt="Linux" width="30px" style="padding-right:8px;" src="icons/linux.svg"/>
-<img align="left" alt="Python" width="30px" style="padding-right:8px;" src="icons/python-128-1.png"/>
+<img align="left" alt="Python" width="30px" style="padding-right:8px;" src="icons/python-3000.png"/>
 <img align="left" alt="Java" width="30px" style="padding-right:8px;" src="icons/java.svg"/>
 <img align="left" alt="JavaScript" width="30px" style="padding-right:8px;" src="icons/javascript.svg" />
 <img align="left" alt="Jupyter" width="30px" style="padding-right:8px;" src="icons/jupyter-128.png"/>
