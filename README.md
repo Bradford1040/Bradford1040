@@ -4,7 +4,9 @@
 </h1>
 
 <h3 align="center">
-I'm a developer with a passion for building and modifying applications, 
+Welcome to my GitHub profile!  
+Here you'll find my latest projects, collaborations, and a showcase of my coding journey.
+A developer with a passion for building and modifying applications, 
 particularly within the Klipper (for 3D printing) and Android ecosystems. 
 I specialize in custom development, including creating custom install applications.
 </h3>
@@ -15,7 +17,7 @@ I specialize in custom development, including creating custom install applicatio
 * To create efficient and innovative solutions.
 * My journey in development is driven by a curiosity to understand how things work and a desire to make them better.
 - - -
-<h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
+<h3 align="center">⚒️ Languages & Frameworks & Tools ⚒️</h3>
  <br/>
 
 <div align="center">
