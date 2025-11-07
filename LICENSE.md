@@ -1,4 +1,4 @@
-G## PREAMBLE
+## PREAMBLE
 
 - This license is established for security purposes and to protect the intellectual property rights of the Author. The primary intent is to prevent unauthorized use, storage, duplication, or any form of appropriation, particularly by Google entities.
 
