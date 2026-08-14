@@ -29,7 +29,7 @@ Recently I completely fell head over heels for CachyOS. Within one week of tryin
 *   **The Realization:** When I dove into custom machines for 3D printing, I quickly learned I needed a few more skills than just pressing the "Play" button in Steam!
 
 1. **Learning the Ropes:** I had to learn **VS Code** just to compile **Marlin**. It took me a long time—and yeah, I'm embarrassed to admit that—but it's the absolute truth.
-2. **The Turning Point:** It wasn't long before I was introduced to **Klipper**, and I was instantly sold on the concept. But man, did it open my eyes to a much steeper learning curve than I ever expected.
+2. **The Turning Point:** It wasn't long before I was introduced to **Klipper**, and I was instantly sold on the concept. But man, did it open my eyes to a much steeper learning curve than I ever expected. No more Auto Marlin Build, now I have to learn `.css` and `python`, `jinja2` and multiple other languages.
 
 ---
 
