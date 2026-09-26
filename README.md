@@ -102,5 +102,12 @@ A comprehensive breakdown of the languages and syntaxes I am actively using:
 
 <div style="clear: both; margin-top: 2px;"></div>
 
+---
+
+## Currently Listening
+
+[Listen on Spotify](https://open.spotify.com/track/5reBgSnHk4HWWS49MHkKn1)
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5reBgSnHk4HWWS49MHkKn1?utm_source=generator&si=c0e6ab771f1f4d24" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
